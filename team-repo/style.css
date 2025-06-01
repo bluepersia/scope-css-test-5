@@ -18,3 +18,9 @@
 {
     
 }
+
+
+.test-3 
+{
+    --scope-hash: testhash;
+}
